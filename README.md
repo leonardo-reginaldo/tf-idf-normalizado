@@ -154,7 +154,7 @@ Somamos apenas as posições onde **q = 1** (computer, software, programmers):
 | D2        | 0 + 1.47712 + 0 = 1.47712             |
 | D3        | 0 + 1.00000 + 0 = 1.00000             |
 
-## 📏 7. Norma de cada documento
+## 📏 7. Normalização de cada documento
 
 A norma de cada documento é calculada como:
 
