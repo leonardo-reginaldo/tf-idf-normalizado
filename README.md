@@ -182,9 +182,9 @@ $$
 $$
 
 onde:  
-- \(\mathbf{q} \cdot \mathbf{D}\) é o **produto escalar**  
-- \(\|\mathbf{q}\|\) é a **norma do vetor de consulta**  
-- \(\|\mathbf{D}\|\) é a **norma do documento**
+- $\mathbf{q} \cdot \mathbf{D}$ é o **produto escalar**  
+- $\|\mathbf{q}\|$ é a **norma do vetor de consulta**  
+- $\|\mathbf{D}\|$ é a **norma do documento**
 
 ---
 
